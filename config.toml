@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "/adrian/"
+baseURL = "http://adrian/"
 languageCode = "en-us"
 title = "Adrian Hugo | E-commerce template"
 theme = "adrian-hugo"
