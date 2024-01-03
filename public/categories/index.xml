@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Adrian Hugo | E-commerce template</title>
+    <link>/adrian/categories/</link>
+    <description>Recent content in Categories on Adrian Hugo | E-commerce template</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 25 Nov 2019 13:39:07 +0600</lastBuildDate><atom:link href="/adrian/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>bag</title>
+      <link>/adrian/categories/bag/</link>
+      <pubDate>Mon, 25 Nov 2019 13:39:07 +0600</pubDate>
+      
+      <guid>/adrian/categories/bag/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shirt</title>
+      <link>/adrian/categories/shirt/</link>
+      <pubDate>Mon, 25 Nov 2019 13:39:07 +0600</pubDate>
+      
+      <guid>/adrian/categories/shirt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>shoe</title>
+      <link>/adrian/categories/shoe/</link>
+      <pubDate>Mon, 25 Nov 2019 13:39:07 +0600</pubDate>
+      
+      <guid>/adrian/categories/shoe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tops</title>
+      <link>/adrian/categories/tops/</link>
+      <pubDate>Mon, 25 Nov 2019 13:39:07 +0600</pubDate>
+      
+      <guid>/adrian/categories/tops/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>watch</title>
+      <link>/adrian/categories/watch/</link>
+      <pubDate>Mon, 25 Nov 2019 13:39:07 +0600</pubDate>
+      
+      <guid>/adrian/categories/watch/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
