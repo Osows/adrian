@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "http://adrian/"
+baseURL = "https://osows.github.io/Adrian/"
 languageCode = "en-us"
 title = "Adrian Hugo | E-commerce template"
 theme = "adrian-hugo"
