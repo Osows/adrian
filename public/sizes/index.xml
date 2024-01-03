@@ -2,44 +2,44 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sizes on Adrian Hugo | E-commerce template</title>
-    <link>/adrian/sizes/</link>
+    <link>http://adrian/sizes/</link>
     <description>Recent content in Sizes on Adrian Hugo | E-commerce template</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 25 Nov 2019 13:39:07 +0600</lastBuildDate><atom:link href="/adrian/sizes/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 25 Nov 2019 13:39:07 +0600</lastBuildDate><atom:link href="http://adrian/sizes/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>M</title>
-      <link>/adrian/sizes/m/</link>
+      <link>http://adrian/sizes/m/</link>
       <pubDate>Mon, 25 Nov 2019 13:39:07 +0600</pubDate>
       
-      <guid>/adrian/sizes/m/</guid>
+      <guid>http://adrian/sizes/m/</guid>
       <description></description>
     </item>
     
     <item>
       <title>S</title>
-      <link>/adrian/sizes/s/</link>
+      <link>http://adrian/sizes/s/</link>
       <pubDate>Mon, 25 Nov 2019 13:39:07 +0600</pubDate>
       
-      <guid>/adrian/sizes/s/</guid>
+      <guid>http://adrian/sizes/s/</guid>
       <description></description>
     </item>
     
     <item>
       <title>XL</title>
-      <link>/adrian/sizes/xl/</link>
+      <link>http://adrian/sizes/xl/</link>
       <pubDate>Mon, 25 Nov 2019 13:39:07 +0600</pubDate>
       
-      <guid>/adrian/sizes/xl/</guid>
+      <guid>http://adrian/sizes/xl/</guid>
       <description></description>
     </item>
     
     <item>
       <title>XXL</title>
-      <link>/adrian/sizes/xxl/</link>
+      <link>http://adrian/sizes/xxl/</link>
       <pubDate>Mon, 25 Nov 2019 13:39:07 +0600</pubDate>
       
-      <guid>/adrian/sizes/xxl/</guid>
+      <guid>http://adrian/sizes/xxl/</guid>
       <description></description>
     </item>
     
