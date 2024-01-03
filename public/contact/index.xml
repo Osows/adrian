@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Contact on Adrian Hugo | E-commerce template</title>
-    <link>http://adrian/contact/</link>
+    <link>https://osows.github.io/Adrian/contact/</link>
     <description>Recent content in Contact on Adrian Hugo | E-commerce template</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 25 Nov 2019 13:39:07 +0600</lastBuildDate><atom:link href="http://adrian/contact/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 25 Nov 2019 13:39:07 +0600</lastBuildDate><atom:link href="https://osows.github.io/Adrian/contact/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
