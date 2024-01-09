@@ -167,7 +167,7 @@ contactFormAction = "#" # contact form works with : https://formspree.io
 # footer content
 footer_content = "Iste dolores iure quis excepturi, deserunt praesentium."
 # copyright
-copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By [Gethugothemes](https://gethugothemes.com/)"
+copyright = "Copyright &copy; 2024 Powered by [Osows.com](https://osows.com)"
 
 # Preloader
 [params.preloader]
